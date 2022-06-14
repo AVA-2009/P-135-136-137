@@ -1,0 +1,22 @@
+.AI{
+    width: 100%;
+    margin-top: 0;
+    font-size: 25px;
+}
+body{
+    background-size: cover;
+}
+#r{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: aquamarine;
+    color:black;
+    bottom: 0;
+    line-height: 2;
+}
+canvas{
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+}
